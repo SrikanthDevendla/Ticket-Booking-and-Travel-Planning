@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Taj Mahal",
+    "city": "Agra",
+    "address": "Somewhere in India",
+    "distance": 300,
+    "price": 99,
+    "maxGroupSize": 10,
+    "desc": "This is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Rudraprayag",
+    "city": "Kedarnath",
+    "address": "Somewhere in India",
+    "distance": 400,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "This is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "Snowy Mountains, Manali",
+    "city": "Kullu Manali",
+    "address": "Somewhere in India",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "This is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Beautiful Sunrise, Bikaner",
+    "city": "Jaisalmer",
+    "address": "Somewhere in India",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "This is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "Goa Beach",
+    "city": "Goa",
+    "address": "Somewhere in India",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "This is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img05.jpg",
+    "featured": true
+  },
+  {
+    "title": "City of Lake",
+    "city": "Nainital",
+    "address": "Somewhere in India",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "This is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img06.jpg",
+    "featured": true
+  },
+  {
+    "title": "Kerala Boat Ride",
+    "city": "Kerala",
+    "address": "Somewhere in India",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "This is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img07.jpg",
+    "featured": true
+  },
+  {
+    "title": "Golden Temple",
+    "city": "Amritsar",
+    "address": "Somewhere in India",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "This is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": true
+  }
+]
